@@ -1,0 +1,73 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Here is one of many  CSS rules you will need... */
+#one {
+    position: absolute;
+    height: 40%;
+    right: 0;
+    bottom: 0;
+    padding: 10px;
+    margin: 10px;
+    width: 25%;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(229, 255, 0);
+    font-size: 1.5rem;
+}
+#two {
+    font-size: 1.5rem;
+    position: absolute;
+    right: 0;
+    padding: 5px;
+    margin: 10px;
+    width: 25%;
+    border: 5px;
+    border-style: solid;
+    border-color: green;
+    height: 40%;
+}
+
+#three {
+    position: absolute;
+    left: 0;
+    padding: 5px;
+    margin: 10px;
+    width: 25%;
+    border: 5px;
+    border-style: solid;
+    border-color: orange;
+    height: 40%;
+    font-size: 1.5rem;
+}
+
+#four {
+    position: absolute;
+    width: 25%;
+    left: 0;
+    bottom: 0;
+    padding: 5px;
+    margin: 10px;
+    width: 25%;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(43, 10, 192);
+    height: 40%;
+    font-size: 1.5rem;
+}
+
+#link a {
+    background-color: #0a4b33;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 5px;
+    font-family: 'Roboto', 'Corbel', 'Avenir', 'Lucida Grande', 'Lucida Sans', sans-serif;
+    font-size: 1.23rem;
+}
